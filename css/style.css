@@ -1,0 +1,34 @@
+.wrapper{
+   max-width: 1024px;
+   margin: 0 auto;
+}
+.out-block{
+   margin-top: 30px;
+}
+.list{
+   padding: 0;
+}
+li {
+   margin: 20px 0;
+   display: flex;
+   justify-content: space-between;
+}
+.register-user,
+.login {
+   font-size: 18px;
+   height: 60px;
+   border-radius: 7px;
+   border: 2px solid;
+   padding: 10px;
+   margin-right: 10px;
+}
+.user-remove {
+   color: #fff;
+   font-size: 16px;
+   font-weight: bold;
+   height: 30px;
+   border: 1px solid;
+   border-radius: 5px;
+   margin-left: 50px;
+   background-color: #d00000;
+}
